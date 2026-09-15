@@ -14,9 +14,9 @@ The project turns a traditional company website into a responsive multi-page exp
 
 ## Live demo
 
-**[Open the deployed website](https://lifeco-fertiliser-company.eenoo2005.chatgpt.site)**
+**[Open the deployed website](https://lifeco-corporate.shaheen-dev.workers.dev)**
 
-The deployment is currently owner-private while the content is being reviewed.
+The public demo is deployed on Cloudflare Workers with Cloudflare D1 backing the managed news and tender content.
 
 ## Preview
 
@@ -82,7 +82,7 @@ flowchart TD
 | Validation | Zod |
 | Components | Radix UI, shadcn primitives |
 | Icons | Lucide React |
-| Hosting | Cloudflare-compatible Worker deployment |
+| Hosting | Cloudflare Workers |
 
 ## Routes
 
